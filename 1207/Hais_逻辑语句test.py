@@ -8,5 +8,6 @@ else:
 
 if  not is_empty:
     print("真")
+    
 else:
     print("假")

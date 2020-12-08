@@ -10,6 +10,7 @@ print(list[1])
 list.insert(1,"李四")
 
 
+
 # 迭代遍历
 for name in list:
     print("你的名字：%s" %name)
